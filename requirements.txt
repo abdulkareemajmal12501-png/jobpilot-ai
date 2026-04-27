@@ -10,3 +10,6 @@ pandas==2.1.4
 scikit-learn==1.3.2
 numpy==1.26.3
 
+# spaCy model (required for NLP skill matching)
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.1/en_core_web_md-3.7.1-py3-none-any.whl
+
